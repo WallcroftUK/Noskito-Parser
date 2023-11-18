@@ -1,0 +1,20 @@
+MapId: 405
+Monsters:
+- GameId: 2698
+  X: 40
+  Y: 32
+- GameId: 2525
+  X: 61
+  Y: 47
+- GameId: 2525
+  X: 62
+  Y: 46
+- GameId: 2525
+  X: 52
+  Y: 60
+- GameId: 2521
+  X: 30
+  Y: 44
+- GameId: 2521
+  X: 26
+  Y: 56

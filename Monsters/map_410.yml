@@ -1,0 +1,8 @@
+MapId: 410
+Monsters:
+- GameId: 2703
+  X: 59
+  Y: 10
+- GameId: 2703
+  X: 27
+  Y: 6
