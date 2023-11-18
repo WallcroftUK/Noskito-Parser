@@ -1,0 +1,23 @@
+MapId: 213
+Monsters:
+- GameId: 2018
+  X: 47
+  Y: 84
+- GameId: 2018
+  X: 31
+  Y: 85
+- GameId: 2018
+  X: 64
+  Y: 61
+- GameId: 2018
+  X: 64
+  Y: 39
+- GameId: 2018
+  X: 63
+  Y: 75
+- GameId: 1058
+  X: 42
+  Y: 56
+- GameId: 1054
+  X: 51
+  Y: 49

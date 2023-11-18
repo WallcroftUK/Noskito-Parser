@@ -1,0 +1,29 @@
+MapId: 154
+Monsters:
+- GameId: 2305
+  X: 86
+  Y: 61
+- GameId: 680
+  X: 120
+  Y: 161
+- GameId: 680
+  X: 123
+  Y: 154
+- GameId: 680
+  X: 129
+  Y: 170
+- GameId: 680
+  X: 136
+  Y: 164
+- GameId: 679
+  X: 63
+  Y: 162
+- GameId: 679
+  X: 62
+  Y: 154
+- GameId: 679
+  X: 52
+  Y: 170
+- GameId: 679
+  X: 45
+  Y: 166

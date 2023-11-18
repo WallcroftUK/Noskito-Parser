@@ -1,0 +1,29 @@
+MapId: 126
+Monsters:
+- GameId: 485
+  X: 45
+  Y: 20
+- GameId: 485
+  X: 38
+  Y: 9
+- GameId: 485
+  X: 31
+  Y: 27
+- GameId: 485
+  X: 31
+  Y: 16
+- GameId: 485
+  X: 22
+  Y: 6
+- GameId: 485
+  X: 20
+  Y: 29
+- GameId: 485
+  X: 19
+  Y: 19
+- GameId: 485
+  X: 9
+  Y: 21
+- GameId: 485
+  X: 7
+  Y: 14

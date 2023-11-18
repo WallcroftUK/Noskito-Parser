@@ -1,0 +1,17 @@
+MapId: 67
+Monsters:
+- GameId: 363
+  X: 44
+  Y: 48
+- GameId: 363
+  X: 43
+  Y: 14
+- GameId: 363
+  X: 40
+  Y: 27
+- GameId: 363
+  X: 25
+  Y: 7
+- GameId: 363
+  X: 7
+  Y: 19

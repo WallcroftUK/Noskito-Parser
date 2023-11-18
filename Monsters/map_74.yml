@@ -1,0 +1,35 @@
+MapId: 74
+Monsters:
+- GameId: 391
+  X: 23
+  Y: 31
+- GameId: 366
+  X: 15
+  Y: 15
+- GameId: 366
+  X: 26
+  Y: 35
+- GameId: 366
+  X: 16
+  Y: 30
+- GameId: 366
+  X: 22
+  Y: 15
+- GameId: 366
+  X: 23
+  Y: 19
+- GameId: 366
+  X: 18
+  Y: 32
+- GameId: 365
+  X: 27
+  Y: 41
+- GameId: 365
+  X: 20
+  Y: 9
+- GameId: 365
+  X: 19
+  Y: 17
+- GameId: 365
+  X: 26
+  Y: 32

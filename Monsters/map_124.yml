@@ -1,0 +1,26 @@
+MapId: 124
+Monsters:
+- GameId: 477
+  X: 28
+  Y: 11
+- GameId: 477
+  X: 26
+  Y: 24
+- GameId: 477
+  X: 21
+  Y: 18
+- GameId: 477
+  X: 19
+  Y: 34
+- GameId: 477
+  X: 13
+  Y: 10
+- GameId: 477
+  X: 11
+  Y: 19
+- GameId: 477
+  X: 8
+  Y: 24
+- GameId: 477
+  X: 4
+  Y: 18
